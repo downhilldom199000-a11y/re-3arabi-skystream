@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.shahid4u",
+  "name": "Shahid4u",
+  "version": 1,
+  "baseUrl": "https://fastvid.cam",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Shahid4u.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "fastvid.cam",
+      "url": "https://fastvid.cam"
+    }
+  ]
+}

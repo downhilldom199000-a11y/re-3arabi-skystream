@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.yacintv",
+  "name": "Yacintv",
+  "version": 1,
+  "baseUrl": "https://def.ycnapi.com/api",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Yacintv.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "def.ycnapi.com",
+      "url": "https://def.ycnapi.com/api"
+    }
+  ]
+}

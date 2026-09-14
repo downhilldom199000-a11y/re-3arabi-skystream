@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.dima.toon",
+  "name": "dima-toon",
+  "version": 1,
+  "baseUrl": "https://www.dima-toon.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: dima-toon.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "www.dima-toon.com",
+      "url": "https://www.dima-toon.com"
+    }
+  ]
+}

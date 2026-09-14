@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.tuktukcima",
+  "name": "TukTukcima",
+  "version": 1,
+  "baseUrl": "https://tuktukhd.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: TukTukcima.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "tuktukhd.com",
+      "url": "https://tuktukhd.com"
+    }
+  ]
+}

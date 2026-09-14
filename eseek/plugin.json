@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.eseek",
+  "name": "eseek",
+  "version": 1,
+  "baseUrl": "https://qeseh.net",
+  "description": "Arabic provider ported from CloudStream re-3arabi: eseek.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "qeseh.net",
+      "url": "https://qeseh.net"
+    }
+  ]
+}

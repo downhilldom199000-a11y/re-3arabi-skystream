@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.animerco",
+  "name": "Animerco",
+  "version": 1,
+  "baseUrl": "https://gat.animerco.org",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Animerco.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "gat.animerco.org",
+      "url": "https://gat.animerco.org"
+    }
+  ]
+}

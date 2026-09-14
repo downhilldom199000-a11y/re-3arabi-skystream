@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.shahidwbas",
+  "name": "Shahidwbas",
+  "version": 1,
+  "baseUrl": "https://w30.shahidwbas.tv",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Shahidwbas.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "w30.shahidwbas.tv",
+      "url": "https://w30.shahidwbas.tv"
+    }
+  ]
+}

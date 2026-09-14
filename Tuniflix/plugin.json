@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.tuniflix",
+  "name": "Tuniflix",
+  "version": 1,
+  "baseUrl": "https://tuniflix.site",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Tuniflix.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "tuniflix.site",
+      "url": "https://tuniflix.site"
+    }
+  ]
+}

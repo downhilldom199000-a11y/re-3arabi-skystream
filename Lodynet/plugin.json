@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.lodynet",
+  "name": "Lodynet",
+  "version": 1,
+  "baseUrl": "https://lodynet.watch",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Lodynet.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "lodynet.watch",
+      "url": "https://lodynet.watch"
+    }
+  ]
+}

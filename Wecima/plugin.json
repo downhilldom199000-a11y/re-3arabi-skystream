@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.wecima",
+  "name": "Wecima",
+  "version": 1,
+  "baseUrl": "https://wecima.ac",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Wecima.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "wecima.ac",
+      "url": "https://wecima.ac"
+    }
+  ]
+}

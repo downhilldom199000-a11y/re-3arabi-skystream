@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.elif",
+  "name": "Elif",
+  "version": 1,
+  "baseUrl": "https://n.elif.news",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Elif.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "n.elif.news",
+      "url": "https://n.elif.news"
+    }
+  ]
+}

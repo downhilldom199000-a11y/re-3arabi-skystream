@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.anime.phoenix",
+  "name": "Anime-Phoenix",
+  "version": 1,
+  "baseUrl": "https://anime-phoenix.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Anime-Phoenix.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "anime-phoenix.com",
+      "url": "https://anime-phoenix.com"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.youtube",
+  "name": "Youtube",
+  "version": 1,
+  "baseUrl": "https://www.youtube.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Youtube.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "www.youtube.com",
+      "url": "https://www.youtube.com"
+    }
+  ]
+}

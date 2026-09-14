@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.krmzy",
+  "name": "Krmzy",
+  "version": 1,
+  "baseUrl": "https://krmzi.org",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Krmzy.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "krmzi.org",
+      "url": "https://krmzi.org"
+    }
+  ]
+}

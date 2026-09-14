@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.akwam",
+  "name": "Akwam",
+  "version": 1,
+  "baseUrl": "https://ak.sv",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Akwam.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "ak.sv",
+      "url": "https://ak.sv"
+    }
+  ]
+}

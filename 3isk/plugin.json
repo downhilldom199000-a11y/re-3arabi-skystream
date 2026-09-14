@@ -1,0 +1,24 @@
+{
+  "packageName": "dev.3arabi.skystream.3isk",
+  "name": "قصة عشق",
+  "version": 1,
+  "baseUrl": "https://3esk.onl",
+  "description": "Arabic series and movies provider ported from the supplied CloudStream 3isk source.",
+  "authors": [
+    "Abodabodd",
+    "SkyStream port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "categories": [
+    "Movie",
+    "TvSeries"
+  ],
+  "domains": [
+    {
+      "name": "3esk.onl",
+      "url": "https://3esk.onl"
+    }
+  ]
+}

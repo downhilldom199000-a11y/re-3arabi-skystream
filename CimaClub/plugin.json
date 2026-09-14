@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.cimaclub",
+  "name": "CimaClub",
+  "version": 1,
+  "baseUrl": "https://cimacub.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: CimaClub.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "cimacub.com",
+      "url": "https://cimacub.com"
+    }
+  ]
+}

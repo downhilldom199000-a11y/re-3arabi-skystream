@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.viu",
+  "name": "Viu",
+  "version": 1,
+  "baseUrl": "https://www.viu.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Viu.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "www.viu.com",
+      "url": "https://www.viu.com"
+    }
+  ]
+}

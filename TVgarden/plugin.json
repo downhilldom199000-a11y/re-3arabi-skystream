@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.tvgarden",
+  "name": "TVgarden",
+  "version": 1,
+  "baseUrl": "https://famelack.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: TVgarden.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "famelack.com",
+      "url": "https://famelack.com"
+    }
+  ]
+}

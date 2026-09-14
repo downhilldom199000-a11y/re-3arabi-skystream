@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.anim3rb",
+  "name": "Anim3rb",
+  "version": 1,
+  "baseUrl": "https://anime3rb.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Anim3rb.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "anime3rb.com",
+      "url": "https://anime3rb.com"
+    }
+  ]
+}

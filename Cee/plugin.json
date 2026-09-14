@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.cee",
+  "name": "Cee",
+  "version": 1,
+  "baseUrl": "https://cee.buzz",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Cee.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "cee.buzz",
+      "url": "https://cee.buzz"
+    }
+  ]
+}

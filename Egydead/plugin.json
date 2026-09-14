@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.egydead",
+  "name": "Egydead",
+  "version": 1,
+  "baseUrl": "https://egydead.beer",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Egydead.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "egydead.beer",
+      "url": "https://egydead.beer"
+    }
+  ]
+}

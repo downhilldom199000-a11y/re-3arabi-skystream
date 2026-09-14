@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.cinemana",
+  "name": "cinemana",
+  "version": 1,
+  "baseUrl": "https://cinemana.shabakaty.cc",
+  "description": "Arabic provider ported from CloudStream re-3arabi: cinemana.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "cinemana.shabakaty.cc",
+      "url": "https://cinemana.shabakaty.cc"
+    }
+  ]
+}

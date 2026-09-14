@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.animewitcher",
+  "name": "Animewitcher",
+  "version": 1,
+  "baseUrl": "https://animewitcher.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Animewitcher.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "animewitcher.com",
+      "url": "https://animewitcher.com"
+    }
+  ]
+}

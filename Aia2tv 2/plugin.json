@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.aia2tv.2",
+  "name": "Aia2tv 2",
+  "version": 1,
+  "baseUrl": "https://ww1.asia2tv.pw",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Aia2tv 2.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "ww1.asia2tv.pw",
+      "url": "https://ww1.asia2tv.pw"
+    }
+  ]
+}

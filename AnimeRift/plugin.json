@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.animerift",
+  "name": "AnimeRift",
+  "version": 1,
+  "baseUrl": "https://gateway.anime-rift.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: AnimeRift.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "gateway.anime-rift.com",
+      "url": "https://gateway.anime-rift.com"
+    }
+  ]
+}

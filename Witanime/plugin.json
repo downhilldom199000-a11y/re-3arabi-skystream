@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.witanime",
+  "name": "Witanime",
+  "version": 1,
+  "baseUrl": "https://witanime.you",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Witanime.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "witanime.you",
+      "url": "https://witanime.you"
+    }
+  ]
+}

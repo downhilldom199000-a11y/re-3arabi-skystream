@@ -1,0 +1,12 @@
+{
+  "name": "skystream-re3arabi",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "skystream deploy -u https://raw.githubusercontent.com/downhilldom199000-a11y/skystream-3isk/main"
+  },
+  "devDependencies": {
+    "skystream-cli": "latest",
+    "skystream-extractors": "latest"
+  }
+}

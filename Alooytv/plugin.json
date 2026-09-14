@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.alooytv",
+  "name": "Alooytv",
+  "version": 1,
+  "baseUrl": "https://fitnur.com/alooytv",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Alooytv.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "fitnur.com",
+      "url": "https://fitnur.com/alooytv"
+    }
+  ]
+}

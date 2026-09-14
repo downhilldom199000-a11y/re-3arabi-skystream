@@ -1,0 +1,20 @@
+{
+  "packageName": "com.downhilldom.re3arabi.cimatn",
+  "name": "Cimatn",
+  "version": 1,
+  "baseUrl": "https://www.cimatn.com",
+  "description": "Arabic provider ported from CloudStream re-3arabi: Cimatn.",
+  "authors": [
+    "downhilldom199000-a11y",
+    "re-3arabi port"
+  ],
+  "languages": [
+    "ar"
+  ],
+  "domains": [
+    {
+      "name": "www.cimatn.com",
+      "url": "https://www.cimatn.com"
+    }
+  ]
+}

@@ -4,6 +4,6 @@
   "description": "Arabic SkyStream ports based on the supplied Abodabodd/re-3arabi CloudStream sources.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/downhilldom199000-a11y/skystream-3isk/main/plugins.json"
+    "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/plugins.json"
   ]
 }

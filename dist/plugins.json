@@ -1,0 +1,825 @@
+[
+  {
+    "packageName": "dev.3arabi.skystream.3isk",
+    "name": "قصة عشق",
+    "version": 1,
+    "baseUrl": "https://3esk.onl",
+    "description": "Arabic series and movies provider ported from the supplied CloudStream 3isk source.",
+    "authors": [
+      "Abodabodd",
+      "SkyStream port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "domains": [
+      {
+        "name": "3esk.onl",
+        "url": "https://3esk.onl"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/dev.3arabi.skystream.3isk.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.aflaam",
+    "name": "Aflaam",
+    "version": 1,
+    "baseUrl": "https://aflaam.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Aflaam.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "aflaam.com",
+        "url": "https://aflaam.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.aflaam.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.aia2tv.2",
+    "name": "Aia2tv 2",
+    "version": 1,
+    "baseUrl": "https://ww1.asia2tv.pw",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Aia2tv 2.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "ww1.asia2tv.pw",
+        "url": "https://ww1.asia2tv.pw"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.aia2tv.2.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.akwam",
+    "name": "Akwam",
+    "version": 1,
+    "baseUrl": "https://ak.sv",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Akwam.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "ak.sv",
+        "url": "https://ak.sv"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.akwam.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.alooytv",
+    "name": "Alooytv",
+    "version": 1,
+    "baseUrl": "https://fitnur.com/alooytv",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Alooytv.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "fitnur.com",
+        "url": "https://fitnur.com/alooytv"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.alooytv.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.anim3rb",
+    "name": "Anim3rb",
+    "version": 1,
+    "baseUrl": "https://anime3rb.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Anim3rb.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "anime3rb.com",
+        "url": "https://anime3rb.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.anim3rb.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.anime.phoenix",
+    "name": "Anime-Phoenix",
+    "version": 1,
+    "baseUrl": "https://anime-phoenix.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Anime-Phoenix.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "anime-phoenix.com",
+        "url": "https://anime-phoenix.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.anime.phoenix.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.anime4up",
+    "name": "Anime4up",
+    "version": 1,
+    "baseUrl": "https://w1.anime4up.rest",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Anime4up.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "w1.anime4up.rest",
+        "url": "https://w1.anime4up.rest"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.anime4up.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.animerift",
+    "name": "AnimeRift",
+    "version": 1,
+    "baseUrl": "https://gateway.anime-rift.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: AnimeRift.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "gateway.anime-rift.com",
+        "url": "https://gateway.anime-rift.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.animerift.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.animerco",
+    "name": "Animerco",
+    "version": 1,
+    "baseUrl": "https://gat.animerco.org",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Animerco.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "gat.animerco.org",
+        "url": "https://gat.animerco.org"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.animerco.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.animewitcher",
+    "name": "Animewitcher",
+    "version": 1,
+    "baseUrl": "https://animewitcher.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Animewitcher.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "animewitcher.com",
+        "url": "https://animewitcher.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.animewitcher.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.bristege",
+    "name": "Bristege",
+    "version": 1,
+    "baseUrl": "https://amd.brstej.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Bristege.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "amd.brstej.com",
+        "url": "https://amd.brstej.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.bristege.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.cee",
+    "name": "Cee",
+    "version": 1,
+    "baseUrl": "https://cee.buzz",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Cee.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "cee.buzz",
+        "url": "https://cee.buzz"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.cee.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.cimaclub",
+    "name": "CimaClub",
+    "version": 1,
+    "baseUrl": "https://cimacub.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: CimaClub.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "cimacub.com",
+        "url": "https://cimacub.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.cimaclub.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.cimalight",
+    "name": "Cimalight",
+    "version": 1,
+    "baseUrl": "https://r.cimalight.co",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Cimalight.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "r.cimalight.co",
+        "url": "https://r.cimalight.co"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.cimalight.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.cimatn",
+    "name": "Cimatn",
+    "version": 1,
+    "baseUrl": "https://www.cimatn.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Cimatn.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "www.cimatn.com",
+        "url": "https://www.cimatn.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.cimatn.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.egydead",
+    "name": "Egydead",
+    "version": 1,
+    "baseUrl": "https://egydead.beer",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Egydead.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "egydead.beer",
+        "url": "https://egydead.beer"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.egydead.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.elif",
+    "name": "Elif",
+    "version": 1,
+    "baseUrl": "https://n.elif.news",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Elif.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "n.elif.news",
+        "url": "https://n.elif.news"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.elif.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.faselhd",
+    "name": "Faselhd",
+    "version": 1,
+    "baseUrl": "https://web31312x.faselhdx.bid",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Faselhd.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "web31312x.faselhdx.bid",
+        "url": "https://web31312x.faselhdx.bid"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.faselhd.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.krmzy",
+    "name": "Krmzy",
+    "version": 1,
+    "baseUrl": "https://krmzi.org",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Krmzy.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "krmzi.org",
+        "url": "https://krmzi.org"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.krmzy.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.lodynet",
+    "name": "Lodynet",
+    "version": 1,
+    "baseUrl": "https://lodynet.watch",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Lodynet.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "lodynet.watch",
+        "url": "https://lodynet.watch"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.lodynet.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.mycimaprovider",
+    "name": "MyCimaProvider",
+    "version": 1,
+    "baseUrl": "https://mycima.living",
+    "description": "Arabic provider ported from CloudStream re-3arabi: MyCimaProvider.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "mycima.living",
+        "url": "https://mycima.living"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.mycimaprovider.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.replaymatch",
+    "name": "Replaymatch",
+    "version": 1,
+    "baseUrl": "https://fullmatchshows.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Replaymatch.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "fullmatchshows.com",
+        "url": "https://fullmatchshows.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.replaymatch.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.shahid4u",
+    "name": "Shahid4u",
+    "version": 1,
+    "baseUrl": "https://fastvid.cam",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Shahid4u.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "fastvid.cam",
+        "url": "https://fastvid.cam"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.shahid4u.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.shahidwbas",
+    "name": "Shahidwbas",
+    "version": 1,
+    "baseUrl": "https://w30.shahidwbas.tv",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Shahidwbas.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "w30.shahidwbas.tv",
+        "url": "https://w30.shahidwbas.tv"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.shahidwbas.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.syria.live",
+    "name": "Syria-live",
+    "version": 1,
+    "baseUrl": "https://www.syrlive.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Syria-live.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "www.syrlive.com",
+        "url": "https://www.syrlive.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.syria.live.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.tvgarden",
+    "name": "TVgarden",
+    "version": 1,
+    "baseUrl": "https://famelack.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: TVgarden.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "famelack.com",
+        "url": "https://famelack.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.tvgarden.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.topcinema",
+    "name": "Topcinema",
+    "version": 1,
+    "baseUrl": "https://web8.topcinema.cam",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Topcinema.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "web8.topcinema.cam",
+        "url": "https://web8.topcinema.cam"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.topcinema.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.tuktukcima",
+    "name": "TukTukcima",
+    "version": 1,
+    "baseUrl": "https://tuktukhd.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: TukTukcima.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "tuktukhd.com",
+        "url": "https://tuktukhd.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.tuktukcima.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.tuniflexblog",
+    "name": "TuniflexBlog",
+    "version": 1,
+    "baseUrl": "https://ttunflix.blogspot.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: TuniflexBlog.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "ttunflix.blogspot.com",
+        "url": "https://ttunflix.blogspot.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.tuniflexblog.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.tuniflix",
+    "name": "Tuniflix",
+    "version": 1,
+    "baseUrl": "https://tuniflix.site",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Tuniflix.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "tuniflix.site",
+        "url": "https://tuniflix.site"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.tuniflix.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.viu",
+    "name": "Viu",
+    "version": 1,
+    "baseUrl": "https://www.viu.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Viu.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "www.viu.com",
+        "url": "https://www.viu.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.viu.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.wecima",
+    "name": "Wecima",
+    "version": 1,
+    "baseUrl": "https://wecima.ac",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Wecima.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "wecima.ac",
+        "url": "https://wecima.ac"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.wecima.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.witanime",
+    "name": "Witanime",
+    "version": 1,
+    "baseUrl": "https://witanime.you",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Witanime.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "witanime.you",
+        "url": "https://witanime.you"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.witanime.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.yacintv",
+    "name": "Yacintv",
+    "version": 1,
+    "baseUrl": "https://def.ycnapi.com/api",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Yacintv.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "def.ycnapi.com",
+        "url": "https://def.ycnapi.com/api"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.yacintv.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.youtube",
+    "name": "Youtube",
+    "version": 1,
+    "baseUrl": "https://www.youtube.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: Youtube.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "www.youtube.com",
+        "url": "https://www.youtube.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.youtube.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.cinemana",
+    "name": "cinemana",
+    "version": 1,
+    "baseUrl": "https://cinemana.shabakaty.cc",
+    "description": "Arabic provider ported from CloudStream re-3arabi: cinemana.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "cinemana.shabakaty.cc",
+        "url": "https://cinemana.shabakaty.cc"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.cinemana.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.dima.toon",
+    "name": "dima-toon",
+    "version": 1,
+    "baseUrl": "https://www.dima-toon.com",
+    "description": "Arabic provider ported from CloudStream re-3arabi: dima-toon.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "www.dima-toon.com",
+        "url": "https://www.dima-toon.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.dima.toon.sky"
+  },
+  {
+    "packageName": "com.downhilldom.re3arabi.eseek",
+    "name": "eseek",
+    "version": 1,
+    "baseUrl": "https://qeseh.net",
+    "description": "Arabic provider ported from CloudStream re-3arabi: eseek.",
+    "authors": [
+      "downhilldom199000-a11y",
+      "re-3arabi port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "domains": [
+      {
+        "name": "qeseh.net",
+        "url": "https://qeseh.net"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main/dist/com.downhilldom.re3arabi.eseek.sky"
+  }
+]

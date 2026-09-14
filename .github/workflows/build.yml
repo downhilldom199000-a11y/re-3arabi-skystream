@@ -1,0 +1,47 @@
+name: Build SkyStream plugins
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: skystream-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install SkyStream CLI
+        run: npm install -g skystream-cli
+
+      - name: Build SkyStream plugins
+        run: |
+          skystream deploy -u https://raw.githubusercontent.com/downhilldom199000-a11y/re-3arabi-skystream/main
+
+      - name: Commit generated packages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist plugins.json repo.json
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "build: update SkyStream plugins"
+            git push
+          fi
